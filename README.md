@@ -1,2 +1,1 @@
-# Object_Detection-TensorFlow
-Using Google's TensorFlow Object Detection API 
+# Object_Detection-YoloV3
